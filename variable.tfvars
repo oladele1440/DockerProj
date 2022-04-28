@@ -1,0 +1,11 @@
+location            = "eastus"
+environment         = "dev"
+owner               = "Oladele"
+description         = "Linux Docker container app"
+app_name            = "rightgates"
+app_port            = "80"
+docker_image        = "ubuntu"
+docker_image_tag    = "latest"
+subscription_id     =  "41b34c4a-d10a-4827-9b78-99d1384d5edb"
+
+# "sriramdasbalaji/aspnetcore-build:1.0-2.0.0"
